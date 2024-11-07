@@ -70,7 +70,10 @@ With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM
 
 ### 🤝 Let’s Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Amairrrr/Amairrr.git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohammed-amair-408a20251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mohammedamair1818@gmail.com) 
+- **Email**: mohammedamair1818@gmail.com
+- **LinkedIn**: www.linkedin.com/in/mohammed-amair-408a20251
+- **Github**: https://github.com/Amairrrr/Amairrr.git
+
 
 I’m enthusiastic about bringing my skills to impactful projects and am actively looking for AWS Solutions Architect, Cloud Support Engineer, or DevOps Engineer roles. Don’t hesitate to reach out if you’d like to discuss opportunities or potential collaborations!
 
