@@ -1,15 +1,17 @@
 # Hi, I'm Mohammed Amair 👋  
-**AWS Cloud Engineer | DevOps Enthusiast | Solutions Architect**
+**AWS Certified Solutions Architect | DevOps Enthusiast | Cloud Engineer**
+
+[![AWS Certified Solutions Architect Badge](assets/aws-certified-solutions-architect.png)](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)
 
 ---
 
 ### 🌐 Seeking New Opportunities
-*Open to roles as an **AWS Solutions Architect**, **Cloud Support Engineer**, or **DevOps Engineer***. I’m passionate about building scalable, secure, and cost-effective cloud infrastructures that empower businesses to reach their full potential.
+*Open to roles as an **AWS Solutions Architect**, **Cloud Support Engineer**, or **DevOps Engineer**.* I’m passionate about building scalable, secure, and cost-effective cloud infrastructures that empower businesses to reach their full potential.
 
 ---
 
 ### 👨‍💻 About Me
-Welcome to my GitHub! I’m an AWS Cloud and DevOps Engineer with a proven track record in designing and managing high-performance cloud environments. I bring expertise in **AWS architectures**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)** to create solutions that are efficient, reliable, and resilient.
+Welcome to my GitHub! As an **[AWS Certified Solutions Architect](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)**, I have a proven track record in designing and managing high-performance cloud environments. I bring expertise in **AWS architectures**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)** to create solutions that are efficient, reliable, and resilient.
 
 With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM, I specialize in optimizing cloud infrastructures to drive down costs and enhance system performance. I thrive in collaborative environments where I can contribute to impactful projects and continuously expand my skill set.
 
@@ -31,7 +33,7 @@ With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM
 
 - **Operations Partner**  
   *John Lewis & Partners (UK)*  
-  Spearheaded initiatives to optimize cloud resources, developed strategic insights through data analysis, and ensured high system performance and reliability.
+  Spearheaded initiatives to optimize resources, developed strategic insights through data analysis, and ensured high system performance and reliability.
 
 ---
 
@@ -61,7 +63,7 @@ With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM
 
 ### 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate**
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)**
 - **AWS Educate**: Specialization in Compute, Networking, and Storage
 
 ---
@@ -70,5 +72,6 @@ With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM
 
 - **Email**: mohammedamair1818@gmail.com
 - **LinkedIn**: www.linkedin.com/in/mohammed-amair-408a20251
+- **Github**: https://github.com/Amairrrr/Amairrr.git
 
 I’m enthusiastic about bringing my skills to impactful projects and am actively looking for AWS Solutions Architect, Cloud Support Engineer, or DevOps Engineer roles. Don’t hesitate to reach out if you’d like to discuss opportunities or potential collaborations!
