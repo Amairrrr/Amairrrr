@@ -1,7 +1,7 @@
 # Hi, I'm Mohammed Amair 👋  
 **AWS Certified Solutions Architect | DevOps Enthusiast | Cloud Engineer**
 
-[![AWS Certified Solutions Architect Badge](assets/aws-certified-solutions-architect.png)](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)
+[![AWS Certified Solutions Architect Badge](images/aws-certified-solutions-architect.png)](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)
 
 ---
 
@@ -75,3 +75,4 @@ With hands-on experience across AWS services like EC2, RDS, Lambda, VPC, and IAM
 - **Github**: https://github.com/Amairrrr/Amairrr.git
 
 I’m enthusiastic about bringing my skills to impactful projects and am actively looking for AWS Solutions Architect, Cloud Support Engineer, or DevOps Engineer roles. Don’t hesitate to reach out if you’d like to discuss opportunities or potential collaborations!
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amairrr&count_private=true)
