@@ -1,10 +1,8 @@
 # Hi, I'm Mohammed Amair 👋  
 **AWS Certified Solutions Architect | DevOps Enthusiast | Cloud Engineer**
 
-[![AWS Certified Solutions Architect Badge](assets/aws-certified-solutions-architect.png)](https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)
-
+                                                                                                                                                                 [![AWS Certified Solutions Architect Badge](assets/aws-certified-solutions-architect.png)]                                         (https://www.credly.com/badges/b729496b-5887-4978-803a-7af3f26b6b7a/public_url)
 ---
-
 ### 🌐 Seeking New Opportunities
 *Open to roles as an **AWS Solutions Architect**, **Cloud Support Engineer**, or **DevOps Engineer**.* I’m passionate about building scalable, secure, and cost-effective cloud infrastructures that empower businesses to reach their full potential.
 
